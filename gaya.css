@@ -35,6 +35,10 @@
   border-top: none;
 }
 
+.tablinks {
+  color: #000;
+}
+
 /* SECTION 1 */
 
 .unlock {
